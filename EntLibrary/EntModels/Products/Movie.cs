@@ -17,7 +17,7 @@ namespace EntLibrary.EntModels.Products
         public List<Production>? Productions { get; set; }
         public List<Distributer>? Distributors { get; set; }
         public List<Movie_Series_Anime_Genre>? Genres { get; set; }
-        public int? RunnigTime { get; set; }
+        public int RunnigTime { get; set; }
 
    
     }
