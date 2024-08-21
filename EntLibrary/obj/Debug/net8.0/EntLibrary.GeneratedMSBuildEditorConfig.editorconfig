@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EntLibrary
-build_property.ProjectDir = E:\nelShit\EntLibrary\
+build_property.ProjectDir = E:\nelShit\ProdDbApp\EntLibrary\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YS5AXJ7tuK8=",
+  "dgSpecHash": "Sa8JEtfbLIE=",
   "success": true,
-  "projectFilePath": "E:\\nelShit\\EntLibrary\\EntLibrary.csproj",
+  "projectFilePath": "E:\\nelShit\\ProdDbApp\\EntLibrary\\EntLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BigVitek\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.8\\microsoft.data.sqlite.core.8.0.8.nupkg.sha512",
     "C:\\Users\\BigVitek\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.8\\microsoft.entityframeworkcore.8.0.8.nupkg.sha512",
