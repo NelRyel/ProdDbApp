@@ -1,0 +1,12 @@
+E:\nelShit\EntLibrary\bin\Debug\net8.0\EntLibrary.deps.json
+E:\nelShit\EntLibrary\bin\Debug\net8.0\EntLibrary.dll
+E:\nelShit\EntLibrary\bin\Debug\net8.0\EntLibrary.pdb
+E:\nelShit\EntLibrary\obj\Debug\net8.0\EntLibrary.csproj.AssemblyReference.cache
+E:\nelShit\EntLibrary\obj\Debug\net8.0\EntLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\nelShit\EntLibrary\obj\Debug\net8.0\EntLibrary.AssemblyInfoInputs.cache
+E:\nelShit\EntLibrary\obj\Debug\net8.0\EntLibrary.AssemblyInfo.cs
+E:\nelShit\EntLibrary\obj\Debug\net8.0\EntLibrary.csproj.CoreCompileInputs.cache
+E:\nelShit\EntLibrary\obj\Debug\net8.0\EntLibrary.dll
+E:\nelShit\EntLibrary\obj\Debug\net8.0\refint\EntLibrary.dll
+E:\nelShit\EntLibrary\obj\Debug\net8.0\EntLibrary.pdb
+E:\nelShit\EntLibrary\obj\Debug\net8.0\ref\EntLibrary.dll
