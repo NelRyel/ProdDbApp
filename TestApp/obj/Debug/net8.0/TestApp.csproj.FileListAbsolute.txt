@@ -55,3 +55,12 @@ E:\nelShit\TestApp\obj\Debug\net8.0\refint\TestApp.dll
 E:\nelShit\TestApp\obj\Debug\net8.0\TestApp.pdb
 E:\nelShit\TestApp\obj\Debug\net8.0\TestApp.genruntimeconfig.cache
 E:\nelShit\TestApp\obj\Debug\net8.0\ref\TestApp.dll
+E:\vs\projects\WpfAppDb\ProdDbApp\TestApp\obj\Debug\net8.0\TestApp.csproj.AssemblyReference.cache
+E:\vs\projects\WpfAppDb\ProdDbApp\TestApp\obj\Debug\net8.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\projects\WpfAppDb\ProdDbApp\TestApp\obj\Debug\net8.0\TestApp.AssemblyInfoInputs.cache
+E:\vs\projects\WpfAppDb\ProdDbApp\TestApp\obj\Debug\net8.0\TestApp.AssemblyInfo.cs
+E:\vs\projects\WpfAppDb\ProdDbApp\TestApp\obj\Debug\net8.0\TestApp.csproj.CoreCompileInputs.cache
+E:\vs\projects\WpfAppDb\ProdDbApp\TestApp\obj\Debug\net8.0\TestApp.sourcelink.json
+E:\vs\projects\WpfAppDb\ProdDbApp\TestApp\obj\Debug\net8.0\TestApp.dll
+E:\vs\projects\WpfAppDb\ProdDbApp\TestApp\obj\Debug\net8.0\refint\TestApp.dll
+E:\vs\projects\WpfAppDb\ProdDbApp\TestApp\obj\Debug\net8.0\TestApp.pdb
